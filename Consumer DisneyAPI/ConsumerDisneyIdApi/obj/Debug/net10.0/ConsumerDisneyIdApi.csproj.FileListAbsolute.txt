@@ -1,0 +1,14 @@
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.AssemblyInfoInputs.cache
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.AssemblyInfo.cs
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.csproj.CoreCompileInputs.cache
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\bin\Debug\net10.0\ConsumerDisneyIdApi.exe
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\bin\Debug\net10.0\ConsumerDisneyIdApi.deps.json
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\bin\Debug\net10.0\ConsumerDisneyIdApi.runtimeconfig.json
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\bin\Debug\net10.0\ConsumerDisneyIdApi.dll
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\bin\Debug\net10.0\ConsumerDisneyIdApi.pdb
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.dll
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\refint\ConsumerDisneyIdApi.dll
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.pdb
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ConsumerDisneyIdApi.genruntimeconfig.cache
+C:\Users\ederj\OneDrive\Documents\Faculdade\Consumer DisneyAPI\ConsumerDisneyIdApi\obj\Debug\net10.0\ref\ConsumerDisneyIdApi.dll
